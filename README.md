@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MartinJolyConcept
-- 👀 I’m interested in C#, Website developement.
-- 🌱 I’m an occasinal coder.
+- 👀 I’m interested in C#, Website development.
+- 🌱 I’m an occasional coder.
 - 📫 How to reach me; martinjoly@jolyconcept.com
-- ⚡ Fun fact; I'm the developer of TheoreticalMachinist.com and I am a machinist by trade.
+- ⚡ Fun fact; I'm the developer of http://TheoreticalMachinist.com and I am a machinist by trade.
 
 <!---
 MartinJolyConcept/MartinJolyConcept is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
